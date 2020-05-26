@@ -1,0 +1,21 @@
+C:\Users\Suma Wijaya\Documents\SharpDevelop Projects\simple_kalkulator\bin\Debug\simple_kalkulator.exe
+C:\Users\Suma Wijaya\Documents\SharpDevelop Projects\simple_kalkulator\bin\Debug\simple_kalkulator.pdb
+C:\Users\Suma Wijaya\Documents\SharpDevelop Projects\simple_kalkulator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Suma Wijaya\Documents\SharpDevelop Projects\simple_kalkulator\obj\Debug\simple_kalkulator.MainForm.resources
+C:\Users\Suma Wijaya\Documents\SharpDevelop Projects\simple_kalkulator\obj\Debug\simple_kalkulator.csproj.GenerateResource.Cache
+C:\Users\Suma Wijaya\Documents\SharpDevelop Projects\simple_kalkulator\obj\Debug\simple_kalkulator.exe
+C:\Users\Suma Wijaya\Documents\SharpDevelop Projects\simple_kalkulator\obj\Debug\simple_kalkulator.pdb
+C:\Users\FVCK-32\Videos\simple_kalkulator\bin\Debug\simple_kalkulator.exe
+C:\Users\FVCK-32\Videos\simple_kalkulator\bin\Debug\simple_kalkulator.pdb
+C:\Users\FVCK-32\Videos\simple_kalkulator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FVCK-32\Videos\simple_kalkulator\obj\Debug\simple_kalkulator.MainForm.resources
+C:\Users\FVCK-32\Videos\simple_kalkulator\obj\Debug\simple_kalkulator.csproj.GenerateResource.Cache
+C:\Users\FVCK-32\Videos\simple_kalkulator\obj\Debug\simple_kalkulator.exe
+C:\Users\FVCK-32\Videos\simple_kalkulator\obj\Debug\simple_kalkulator.pdb
+C:\Users\Bismillah\Desktop\simple_kalkulator\obj\Debug\simple_kalkulator.exe
+C:\Users\Bismillah\Desktop\simple_kalkulator\obj\Debug\simple_kalkulator.pdb
+C:\Users\Bismillah\Desktop\simple_kalkulator\bin\Debug\simple_kalkulator.exe
+C:\Users\Bismillah\Desktop\simple_kalkulator\bin\Debug\simple_kalkulator.pdb
+C:\Users\Bismillah\Desktop\simple_kalkulator\obj\Debug\simple_kalkulator.csprojResolveAssemblyReference.cache
+C:\Users\Bismillah\Desktop\simple_kalkulator\obj\Debug\simple_kalkulator.MainForm.resources
+C:\Users\Bismillah\Desktop\simple_kalkulator\obj\Debug\simple_kalkulator.csproj.GenerateResource.Cache
